@@ -194,8 +194,10 @@ main{
     flex-direction: row;
 }
 .right{
-    /* position: fixed; */
-    align-items: stretch;
+    position: fixed;
+    left: 560px;
+    margin-top: -10px;
+    /* align-items: stretch; */
 }
 .aside-container{
     /* border: 1px solid black; */
